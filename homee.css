@@ -1,0 +1,14 @@
+body{
+    background-image : url("img hoome.jpg");
+   }
+
+
+video{
+    border: 5px solid black;
+    box-shadow: 10px 10px 5px rgba(٢٣, ٢٢, ٢٢, 0.55);
+    margin: 20px;
+    animation: zoom 5s infinite;
+    background-position: center;
+
+}
+}
